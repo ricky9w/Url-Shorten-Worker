@@ -1,6 +1,16 @@
 # Url-Shorten-Worker
 A URL Shortener created using Cloudflare Worker
 
+# TODO
+
+- [ ] 更完善的错误处理
+
+- [ ] 自定义短链
+
+- [ ] 简单的前端页面
+
+- [ ] 修改文档
+
 # API
 
 [API Documentation (API文档)](docs/API.md)
